@@ -1,0 +1,4 @@
+Sitemap: https://samuel.me.uk/sitemapindex.xml
+
+User-Agent: *
+Host: samuel.me.uk
